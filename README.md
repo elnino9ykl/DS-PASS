@@ -27,7 +27,7 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
 # Panorama Sequences Captured by Mobile Robot
 
 # Code Usage
-Download the Model (model_superbest.pth) from [**Trained SwaftNet**]()
+Download the Model (model_superbest.pth) from [**Trained-SwaftNet-Model**](https://pan.baidu.com/s/1GHgv8cLA-LzsgtqGaYAm6Q)
 
 ```
 python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-master/eval_swaftnet/data/ --subset val --loadDir ../eval_swaftnet/ --loadWeights model_superbest.pth --loadModel swaftnet.py
