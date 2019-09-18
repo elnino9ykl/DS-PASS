@@ -26,9 +26,16 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
 
 # Panoramic Image Sequences Captured by Mobile Robot
 
-# Usage
+# Code Usage
 Download the Model (model_superbest.pth) from [**Trained SwaftNet**]()
 
 ```
 python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-master/eval_swaftnet/data/ --subset val --loadDir ../eval_swaftnet/ --loadWeights model_superbest.pth --loadModel swaftnet.py
 ```
+
+# Publications
+If you use our code or dataset, please consider cite our paper:
+
+**DS-PASS: Detail-Sensitive Panoramic Annular Semantic Segmentation through SwaftNet for Surrounding Sensing.**
+K. Yang, X. Hu, H. Chen, K. Xiang, K. Wang, R. Stiefelhagen.
+arxiv preprint arxiv: 1909.07721, 2019.
