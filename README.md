@@ -33,6 +33,8 @@ Download the Model (model_superbest.pth) from [**Trained-SwaftNet-Model**](https
 python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-master/eval_swaftnet/data/ --subset val --loadDir ../eval_swaftnet/ --loadWeights model_superbest.pth --loadModel swaftnet.py
 ```
 
+![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
+
 # Publications
 If you use our code or dataset, please consider cite our paper:
 
