@@ -9,8 +9,6 @@ For Validation (Most important files):
 
 [**Annonations**](https://pan.baidu.com/s/12K8l3OKn2dDXzVAF8oqfWQ), (400 annotation images)
 
-[Groundtruth](https://pan.baidu.com/s/1Y4Xp10J_fWrye_gLS3iyrA)
-
 There are 400 panoramas with annotations. Please use the Annotations data for evaluation.
 
 In total, there are 1050 panoramas. Complete Panoramas:
@@ -23,6 +21,9 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
 
 
 # Panorama Sequences Captured by Instrumented Vehicle
+[Sequence1](https://pan.baidu.com/s/17L1-of4f80-sJqcsha_umw)
+[Sequence2]()
+[Sequence3]()
 
 # Panorama Sequences Captured by Mobile Robot
 [Sequences](https://pan.baidu.com/s/15lIseRZkZgtF4UhCthlsUA)
