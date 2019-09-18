@@ -22,9 +22,9 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
                [RAW3](https://pan.baidu.com/s/1car_7_dH58wKWDjM6brhlQ)
 
 
-# Panoramic Image Sequences Captured by Instrumented Vehicle
+# Panorama Sequences Captured by Instrumented Vehicle
 
-# Panoramic Image Sequences Captured by Mobile Robot
+# Panorama Sequences Captured by Mobile Robot
 
 # Code Usage
 Download the Model (model_superbest.pth) from [**Trained SwaftNet**]()
