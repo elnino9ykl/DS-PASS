@@ -38,7 +38,7 @@ python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-ma
 ![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
 
 # Publications
-If you use our code or dataset, please consider cite our paper:
+If you use our code or dataset, please consider citing our paper:
 
 **DS-PASS: Detail-Sensitive Panoramic Annular Semantic Segmentation through SwaftNet for Surrounding Sensing.**
 K. Yang, X. Hu, H. Chen, K. Xiang, K. Wang, R. Stiefelhagen.
