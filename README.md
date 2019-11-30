@@ -9,6 +9,8 @@ For Validation (Most important files):
 
 [**Annonations**](https://pan.baidu.com/s/1XJ6fFq60UwTZui456AQlPw), (400 annotation images)
 
+[Groundtruth](https://pan.baidu.com/s/1RkrxtYu5Y1UzBvzn8aBugg)
+
 There are 400 panoramas with annotations. Please use the Annotations data for evaluation.
 
 In total, there are 1050 panoramas. Complete Panoramas:
