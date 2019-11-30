@@ -7,7 +7,7 @@ For Validation (Most important files):
 [**Unfolded Panoramas for Validation**](https://pan.baidu.com/s/1lsd_CN9u4uSCp-KmE2pn9Q),
 (400 images)
 
-[**Annonations**](https://pan.baidu.com/s/12K8l3OKn2dDXzVAF8oqfWQ), (400 annotation images)
+[**Annonations**](https://pan.baidu.com/s/1XJ6fFq60UwTZui456AQlPw), (400 annotation images)
 
 There are 400 panoramas with annotations. Please use the Annotations data for evaluation.
 
