@@ -40,6 +40,8 @@ Download the Model (model_superbest.pth) from
 
 [**Trained-SwaftNet-Model BaiduYun**](https://pan.baidu.com/s/1GHgv8cLA-LzsgtqGaYAm6Q)
 
+or
+
 [**Trained-SwaftNet-Model GoogleDrive**](https://drive.google.com/file/d/1dNx3FbeqJjrB7-LrhlLnKvdlZ69_0sZ0/view?usp=sharing)
 
 ```
