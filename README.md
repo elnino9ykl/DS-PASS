@@ -36,7 +36,9 @@ RAW Panoramas: [RAW1](https://pan.baidu.com/s/1LBTQnVHcL0TKoY7njtPiBg),
 [Sequences](https://pan.baidu.com/s/15lIseRZkZgtF4UhCthlsUA)
 
 # Code Usage
-Download the Model (model_superbest.pth) from [**Trained-SwaftNet-Model**](https://pan.baidu.com/s/1GHgv8cLA-LzsgtqGaYAm6Q)
+Download the Model (model_superbest.pth) from
+[**Trained-SwaftNet-Model BaiduYun**](https://pan.baidu.com/s/1GHgv8cLA-LzsgtqGaYAm6Q)
+[**Trained-SwaftNet-Model GoogleDrive](https://drive.google.com/file/d/1dNx3FbeqJjrB7-LrhlLnKvdlZ69_0sZ0/view?usp=sharing)
 
 ```
 python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-master/eval_swaftnet/data/ --subset val --loadDir ../eval_swaftnet/ --loadWeights model_superbest.pth --loadModel swaftnet.py
