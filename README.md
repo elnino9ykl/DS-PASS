@@ -55,4 +55,4 @@ If you use our code or dataset, please consider citing our paper:
 
 **DS-PASS: Detail-Sensitive Panoramic Annular Semantic Segmentation through SwaftNet for Surrounding Sensing.**
 K. Yang, X. Hu, H. Chen, K. Xiang, K. Wang, R. Stiefelhagen.
-arxiv preprint arxiv: 1909.07721, 2019. [[**PDF**](https://arxiv.org/pdf/1909.07721)]
+In IEEE Intelligent Vehicles Symposium (IV), Las Vegas, Las Vegas, NV, United States, October 2020. [[**PDF**](https://arxiv.org/pdf/1909.07721)]
