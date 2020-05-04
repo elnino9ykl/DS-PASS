@@ -48,6 +48,7 @@ or
 python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-master/eval_swaftnet/data/ --subset val --loadDir ../eval_swaftnet/ --loadWeights model_superbest.pth --loadModel swaftnet.py
 ```
 [**Video**](https://youtu.be/pvhpxbdrA_4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pvhpxbdrA_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
 
 # Publications
