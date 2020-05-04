@@ -47,9 +47,8 @@ or
 ```
 python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-master/eval_swaftnet/data/ --subset val --loadDir ../eval_swaftnet/ --loadWeights model_superbest.pth --loadModel swaftnet.py
 ```
-[**Video**](https://youtu.be/pvhpxbdrA_4)
-[![Video](example_segmentation.jpg?raw=true)](https://youtu.be/pvhpxbdrA_4 "Video")
-![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
+
+[![Video](example_segmentation.jpg?raw=true)](https://youtu.be/pvhpxbdrA_4 "Video on Youtube")
 
 # Publications
 If you use our code or dataset, please consider citing our paper:
