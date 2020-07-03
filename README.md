@@ -49,6 +49,7 @@ python3.6 eval_cityscapes_color_1.py --datadir /home/kailun/Downloads/DS-PASS-ma
 ```
 
 ![Example segmentation](example_segmentation.jpg?raw=true "Example segmentation")
+
 [![Video](dspass_youtube.jpg?raw=true)](https://youtu.be/pvhpxbdrA_4 "Video on Youtube")
 
 # Publications
